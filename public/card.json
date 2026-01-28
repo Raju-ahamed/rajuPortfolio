@@ -1,0 +1,41 @@
+[
+    {
+        "id": "card-001",
+        "name": "Basic Card",
+        "description": "Perfect for beginners with essential features.",
+        "price": 199,
+        "features": [
+            "Access to basic tools",
+            "Email support",
+            "Single user access"
+        ]
+    },
+    {
+        "id": "card-002",
+        "name": "Standard Card",
+        "description": "Best for small teams and regular users.",
+        "price": 499,
+        "catagory": "primum",
+        "features": [
+            "All basic features",
+            "Priority email support",
+            "Multi-user access",
+            "Monthly performance reports",
+            "Limited cloud storage"
+        ]
+    },
+    {
+        "id": "card-003",
+        "name": "Premium Card",
+        "description": "Advanced features for professionals and businesses.",
+        "price": 999,
+        "features": [
+            "All standard features",
+            "24/7 dedicated support",
+            "Unlimited user access",
+            "Advanced analytics dashboard",
+            "Unlimited cloud storage",
+            "Custom integrations"
+        ]
+    }
+]

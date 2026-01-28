@@ -36,7 +36,7 @@ const NavBar = () => {
     return (
         <nav className='flex justify-between mx-auto p-3 border border-b-fuchsia-950 rounded-b-xl bg-cyan-950'>
             <div className='flex gap-2'>
-                <span onClick={() => setOpen(!open)} className='text-2xl font-bold mt-1.5'>
+                <span onClick={() => setOpen(!open)} className='text-2xl md:hidden font-bold mt-1.5'>
                     {
                         open ? <IoMdClose /> : <CiMenuFries />
                     }
